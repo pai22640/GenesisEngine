@@ -23,7 +23,7 @@ type Biome struct {
 // Creature 描述了生物群系中的生物。
 type Creature struct {
 	Species string
-	// 其他生物特徵
+	// 其他生物特徵git status
 }
 
 // Plant 描述了生物群系中的植物生命。
